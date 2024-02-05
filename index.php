@@ -1,3 +1,7 @@
+<?php
+   include"./Service/database.php";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +11,9 @@
 </head>
 <body>
     <header>
+                    
+
+
         <h3>Belajar PHP</h3>
         <a href="./Layout/login.php">Login</a>
         <a href="./Layout/register.php">Register</a>
